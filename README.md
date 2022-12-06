@@ -10,12 +10,12 @@ I like:
 
 ### Skills and Tools
 
-[<img aligt ="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>]
+<img aligt ="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>
 
 
 ### You can contact me:
 
-[<img aligt ="left" alt="instagram" width="26px" src="![image](https://user-images.githubusercontent.com/75033218/206008976-9376759c-9fd3-4bbd-a85f-d904b7f63b88.png)
+[<img aligt ="left" alt="instagram"  src="![image](https://user-images.githubusercontent.com/75033218/206008976-9376759c-9fd3-4bbd-a85f-d904b7f63b88.png)
 "/>][instagram]
 
 
