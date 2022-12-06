@@ -1,12 +1,22 @@
 ## Hello, I'm Alexander 👋
 
-### I'm a developer and student
+### About for me:
+Purposeful and highly efficient beginner programmer.
+My goal as a programmer is to prepare my technical skills in the field of IT and acquire large baggage of practical application. The main goal is to get a place in a large IT company.
+I am a team player, open to adapting to change, and an excellent problem solver. Having said that, I can assure you that I will be useful in the IT company.
 
 I like:
 - 🖥️ coding
 - 📖 learning
 - 👦 and more
 
+#### Teaching:
+
+3rd year, "Computer Science", NULES
+Release is expected in 2024.
+
+Certificate of school education
+Kryvyi Rih secondary school No. 27,2009-2020 (gold medal)
 
 ### Skills and Tools
 
