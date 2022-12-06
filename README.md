@@ -22,8 +22,8 @@ I like:
 
 ### You can contact me:
 
-<img aligt ="left" alt="INST" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>[inst]
-<img aligt ="left" alt="LINK" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>[link]
+[<img aligt ="left" alt="INST" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>](https://www.instagram.com/_grizzly_103/)
+<img aligt ="left" alt="LINK" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/> [link]
 
 
 [inst]:https://www.instagram.com/_grizzly_103/
