@@ -10,7 +10,7 @@ I like:
 - 📖 learning
 - 👦 and more
 
-#### Teaching:
+#### Studing:
 
 3rd year, "Computer Science", NULES
 Release is expected in 2024.
