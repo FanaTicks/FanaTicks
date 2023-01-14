@@ -35,6 +35,8 @@ Kryvyi Rih secondary school No. 27,2009-2020 (gold medal)
 [<img aligt ="left" alt="LINK" width="36px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/alexander-pukhalskyi-7b4603229/)
 
 📞0962604456
+
+pukhalskyialex@gmail.com
 <!--
 **FanaTicks/FanaTicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
