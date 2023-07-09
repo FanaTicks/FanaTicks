@@ -32,7 +32,7 @@ Kryvyi Rih secondary school No. 27,2009-2020 (gold medal)
 ### You can contact me:
 
 [<img aligt ="left" alt="INST" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>](https://www.instagram.com/_grizzly_103/)
-[<img aligt ="left" alt="LINK" width="36px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](www.linkedin.com/in/олександр-пухальський-96b662282)
+[<img aligt ="left" alt="LINK" width="36px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](www.linkedin.com/in/олександр-пухальський-96b662282/)
 
 📞0962604456
 
