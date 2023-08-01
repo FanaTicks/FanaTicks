@@ -12,7 +12,7 @@ I like:
 
 #### Studing:
 
-3rd year, "Computer Science", NULES
+4rd year, "Computer Science", NULES
 Release is expected in 2024.
 
 Certificate of school education
