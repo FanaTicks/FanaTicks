@@ -1,9 +1,7 @@
-## Hello, I'm Alexander 👋
+## Hello, I'm Olexandr 👋
 
 ### About for me:
-Purposeful and highly efficient beginner programmer.
-My goal as a programmer is to prepare my technical skills in the field of IT and acquire large baggage of practical application. The main goal is to get a place in a large IT company.
-I am a team player, open to adapting to change, and an excellent problem solver. Having said that, I can assure you that I will be useful in the IT company.
+Purposeful and highly efficient PHP programmer. My goal as a programmer is to always learn something new.
 
 I like:
 - 🖥️ coding
@@ -12,11 +10,13 @@ I like:
 
 #### Studing:
 
-4rd year, "Computer Science", NULES
-Release is expected in 2024.
+Bachelor of Science in Computer Science
+National University of Life and Environmental Sciences of Ukraine (NUBiP), Kyiv
+Graduated with honors in 2024
 
 Certificate of school education
-Kryvyi Rih secondary school No. 27,2009-2020 (gold medal)
+Kryvyi Rih secondary school No. 27, Kryvyi Rih
+2009-2020 (gold medal)
 
 ### Skills and Tools
 
