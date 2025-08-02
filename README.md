@@ -1,53 +1,75 @@
-## Hello, I'm Olexandr 👋
+## 👋 Hello, I'm Oleksandr Pukhalskyi
 
-### About for me:
-Purposeful and highly efficient PHP programmer. My goal as a programmer is to always learn something new.
+**AI & Full-Stack Developer** from Kyiv, Ukraine 🇺🇦  
+Passionate about building intelligent systems, web applications, and learning new technologies.
 
-I like:
-- 🖥️ coding
-- 📖 learning
-- 👦 and more
+---
 
-#### Studing:
+### 🧠 About Me
 
-Bachelor of Science in Computer Science
-National University of Life and Environmental Sciences of Ukraine (NUBiP), Kyiv
-Graduated with honors in 2024
+Focused and result-driven developer with strong technical expertise in AI, automation, and full-stack development.  
+I specialize in building ML-powered tools, integrating APIs, and optimizing systems for performance and usability.
 
-Certificate of school education
-Kryvyi Rih secondary school No. 27, Kryvyi Rih
-2009-2020 (gold medal)
+---
 
-### Skills and Tools
+### 💼 Experience
 
-<img aligt ="left"   width="36px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/><img aligt ="left" alt="C" width="36px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
-<img aligt ="left" alt="C#" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
-<img aligt ="left" alt="CSS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img aligt ="left" alt="HTML" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img aligt ="left" alt="JAVA" width="36px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>
+**AI Developer** — *TCM Group Ukraine*  
+- Developed machine learning solutions for business automation.  
+- Integrated OpenAI, Whisper, LLaMA, and other AI tools.  
+- Built NLP and predictive analytics systems.
 
+**Full-Stack / PHP Developer** — *TCM Group Ukraine*  
+- Created and enhanced internal portal modules using Laravel, REST API, ORM.  
+- Integrated external APIs (OpenAI, Google, Banking, Nova Poshta).  
+- Improved UI/UX, system performance, and scalability.
 
+**Freelance PHP Developer**  
+- Developed e-commerce websites using OpenCart.  
+- Optimized frontend/backend performance.
 
+---
 
-### You can contact me:
+### 🎓 Education
 
-[<img aligt ="left" alt="INST" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>](https://www.instagram.com/_grizzly_103/)
-[<img aligt ="left" alt="LINK" width="36px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://ua.linkedin.com/in/olexandr-pukhalskyi-96b662282)
+**Master’s Degree in Computer Science**  
+*National University of Life and Environmental Sciences of Ukraine*  
+`2024 – 2025 (In Progress)`
 
-📞0962604456
+**Bachelor’s Degree in Computer Science**  
+*National University of Life and Environmental Sciences of Ukraine*  
+`2020 – 2024` — Graduated with honors 🏅
 
-pukhalskyialex@gmail.com
+---
+
+### 🛠️ Skills
+
+**Languages:** PHP, Python, JavaScript, SQL  
+**Web:** HTML, CSS, Bootstrap, jQuery, Laravel, REST API  
+**AI & Data:** GPT-4, Whisper, LLaMA, DeepSeek, Pandas, NumPy, Matplotlib  
+**Automation:** n8n, API workflows, webhooks  
+**Tools:** Git, GitHub, Postman, Bitrix, OpenCart, MySQL, ORM  
+**APIs:** OpenAI, Google, Banking API, Nova Poshta  
+
+---
+
+### 🌍 Languages
+
+- Ukrainian — Native  
+- English — B1 
+
+---
+
+### 📫 Contact Me
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://ua.linkedin.com/in/olexandr-pukhalskyi)  
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png)](https://www.instagram.com/_grizzly_103/)  
+
+📧 pukhalskyialex@gmail.com  
+📱 +380 96 260 44 56
+
+---
+
 <!--
-**FanaTicks/FanaTicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**FanaTicks/FanaTicks** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
