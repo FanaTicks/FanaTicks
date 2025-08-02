@@ -14,12 +14,12 @@ I specialize in building ML-powered tools, integrating APIs, and optimizing syst
 
 ### 💼 Experience
 
-**AI Developer** — *TCM Group Ukraine*  
+**AI Developer** 
 - Developed machine learning solutions for business automation.  
 - Integrated OpenAI, Whisper, LLaMA, and other AI tools.  
 - Built NLP and predictive analytics systems.
 
-**Full-Stack / PHP Developer** — *TCM Group Ukraine*  
+**Full-Stack / PHP Developer**
 - Created and enhanced internal portal modules using Laravel, REST API, ORM.  
 - Integrated external APIs (OpenAI, Google, Banking, Nova Poshta).  
 - Improved UI/UX, system performance, and scalability.
