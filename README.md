@@ -62,8 +62,9 @@ I specialize in building ML-powered tools, integrating APIs, and optimizing syst
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://ua.linkedin.com/in/olexandr-pukhalskyi)  
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png)](https://www.instagram.com/_grizzly_103/)  
+[<img aligt ="left" alt="INST" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>](https://www.instagram.com/oleksandr_ph/)
+[<img aligt ="left" alt="LINK" width="36px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://ua.linkedin.com/in/olexandr-pukhalskyi-96b662282)
+ 
 
 📧 pukhalskyialex@gmail.com  
 📱 +380 96 260 44 56
